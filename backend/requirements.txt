@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pypdf
+pdfplumber
+faiss-cpu
+transformers
+sentence-transformers
+python-multipart
+langchain
+numpy
+torch
+scikit-learn
