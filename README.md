@@ -1,4 +1,4 @@
-# 📄 PDF Q&A Web Application using Any LLM (Hugging Face + FAISS + FastAPI + React)
+# 📄 PDF Q&A Web Application using Any LLM 
 
 ## 🚀 Overview
 This project is a **Retrieval-Augmented Generation (RAG)**-based web application that allows users to **upload a PDF** and **ask natural language questions** about its content.  
